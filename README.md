@@ -10,6 +10,7 @@ Machine Learning from A to Z
 - model evaluation
 - optimization techniques<br/>
 
+
 2) ML Models & Techniques - covers wide range of AI/ML/Deep Learning application areas and models
 - Classification
 - Regression
@@ -20,7 +21,9 @@ Machine Learning from A to Z
 - Generative Models
 - Reinforcement Learning<br/>
 
+
 3) ML Code Master - sample Python applications of classification and regression<br/>
+
 
 4) Deep Learning Foundations
 - Artifical Neural Networks
