@@ -1,6 +1,8 @@
 # Machine-Learning-Curriculum
 Machine Learning from A to Z
 
+<br/>Well complemented by my Data Science Curriculum: https://github.com/Valdini/Data-Science-Curriculum
+
 <br/>1) ML Approach - covers full ML Journey conceptually 
 - data exploration
 - cleaning
