@@ -8,10 +8,10 @@ Machine Learning from A to Z
 - feature engineering
 - training
 - model evaluation
-- optimization techniques\
+- optimization techniques
 
 
-2) ML Models & Techniques - covers wide range of AI/ML/Deep Learning application areas and models
+<br/>2) ML Models & Techniques - covers wide range of AI/ML/Deep Learning application areas and models
 - Classification
 - Regression
 - Clustering
@@ -19,10 +19,10 @@ Machine Learning from A to Z
 - Sequential Models
 - Representative Models
 - Generative Models
-- Reinforcement Learning\
+- Reinforcement Learning
 
 
-3) ML Code Master - sample Python applications of classification and regression\
+3) ML Code Master - sample Python applications of classification and regression
 
 
 4) Deep Learning Foundations
